@@ -40,13 +40,13 @@ In an IDE suitable for Javascript such as VS Code, open up your terminal.
 <br />
 
 1) Install npm by typing
-   ```sh
+  ```sh
    npm install
-   ```
+  ```
 2) Install Expo 
   ```sh
    npm install --global expo-cli
-   ```
+  ```
 3) After opening the app folder in your IDE, type
   ```sh
   npm start
