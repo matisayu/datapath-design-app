@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+ <img src="images/screenshot.png" alt="Logo" width="1437" height="1054">
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
