@@ -19,7 +19,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="center">
+<p align="left">
   Understanding how computers work can be a daunting task. To the average person, the complex systems that make up these machines may as well be witchcraft. This is why we decided to create a beginner friendly mobile application that unmasks the mystery behind how the average CPU (Central Processing Unit) works at a microarchitectural level.
   
  
@@ -84,11 +84,8 @@ This is an example of how to list things you need to use the software and how to
 ## Contact
 
 Matthew Faulk - mkf61@txstate.edu
-Dakota Holmes - 
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
+<br />
+Dakota Holmes - holmesdakota28@gmail.com
 
 
 
