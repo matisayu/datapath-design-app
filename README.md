@@ -18,7 +18,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- <img src="images/sidebyside.png" alt="Logo" width="1445" height="814">
+ <img src="images/sidebyside.png" alt="Logo" width="1445" height="550">
  <br />
  <a href="https://www.youtube.com/watch?v=PmcetJLw2bQ">
   Check out our video presentation describing this project!
