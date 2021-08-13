@@ -31,12 +31,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">CPU Datapath Design Mobile App</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+   An awesome educational tool for educating developers on computer architecture CPU datapath design elements.
     <br />
     <br />
   
@@ -63,9 +61,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+ 
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -92,10 +90,8 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+* [React Native](https://reactnative.dev/)
+* [React Native Collapsible View](https://eliav2.github.io/react-native-collapsible-view/)
 
 
 <!-- GETTING STARTED -->
@@ -136,15 +132,6 @@ This is an example of how to list things you need to use the software and how to
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
 
 
 <!-- CONTACT -->
