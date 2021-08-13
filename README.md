@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- <img src="images/screenshot.png" alt="Logo" width="1437" height="1054">
+ <img src="images/screenshot.png" alt="Logo" width="1000" height="600">
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
