@@ -52,29 +52,6 @@ In an IDE suitable for Javascript such as VS Code, open up your terminal.
   npm start
   ```
   
-## Usage
-<p>
- Below we have several screenshots of the mobile application, displaying the main page and the collapsible view function.
-  </p>
-  
- <img src="images/sidebyside.png" alt="Logo" width="1445" height="540">
- <br />
- <a href="https://www.youtube.com/watch?v=PmcetJLw2bQ">
-  Check out our 15 minute video presentation describing this project!
-  </a>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Matthew Faulk - mkf61@txstate.edu
-<br />
-Dakota Holmes - holmesdakota28@gmail.com
-
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
